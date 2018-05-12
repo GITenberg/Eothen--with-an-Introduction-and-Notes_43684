@@ -1,0 +1,29 @@
+_repo: Eothen--with-an-Introduction-and-Notes_43684
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43684-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kinglake, Alexander William
+    alias: Kinglake, A. W. (Alexander William)
+    birthdate: 1809
+    deathdate: 1891
+    gutenberg_agent_id: '163'
+    url: http://www.gutenberg.org/2009/agents/163
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_William_Kinglake
+description: ''
+gutenberg_issued: '2013-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43684'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Middle East -- Description and travel'
+- !lcsh 'Kinglake, Alexander William, 1809-1891 -- Travel -- Middle East'
+title: Eothen; with an Introduction and Notes
+url: http://www.gutenberg.org/ebooks/43684
